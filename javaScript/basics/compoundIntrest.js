@@ -1,0 +1,1 @@
+console.log(" ********** program 10 compound intrest ")
