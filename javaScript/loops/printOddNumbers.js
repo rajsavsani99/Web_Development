@@ -1,4 +1,4 @@
-console.log("program 2 print odd numbers ( range 1 to 100)");
+console.log("program 4 print odd numbers ( range 1 to 100)");
 
 
 

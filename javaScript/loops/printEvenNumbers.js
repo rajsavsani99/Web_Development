@@ -1,4 +1,4 @@
-console.log("program 2 print even numbers range 1 to 100");
+console.log("program 3 print even numbers range 1 to 100");
 
 
 
